@@ -21,7 +21,6 @@
 - **Bilibili主页**: [https://space.bilibili.com/3546656385534288?](https://space.bilibili.com/3546656385534288?)  
 - **GitHub主页**: [https://github.com/YoCocoium](https://github.com/YoCocoium)
 
-YoCocoium (Yuankeke) GitHub Profile
 
 ## Basic Information
 
