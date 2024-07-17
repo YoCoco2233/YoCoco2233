@@ -19,7 +19,7 @@
 ## 联系方式  
   
 - **Bilibili主页**: [https://space.bilibili.com/3546656385534288?](https://space.bilibili.com/3546656385534288?)  
-- **GitHub主页**: [https://github.com/YoCocoium](https://github.com/YoCoco2233)
+- **GitHub主页**: [https://github.com/YoCoco2233](https://github.com/YoCoco2233)
 
 
 ## Basic Information
@@ -41,4 +41,4 @@ I understand that there is still a long way to go in the field of computer scien
 ## Contact Information
 
 - **Bilibili Profile**: [https://space.bilibili.com/3546656385534288?](https://space.bilibili.com/3546656385534288?)
-- **GitHub Profile**: [https://github.com/YoCocoium](https://github.com/YoCoco2233)
+- **GitHub Profile**: [https://github.com/YoCoco2233](https://github.com/YoCoco2233)
