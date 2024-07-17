@@ -1,8 +1,8 @@
-# YoCocoium (元可可)  GitHub 个人简介  
+# YoCoco2233 (元可可)  GitHub 个人简介  
   
 ## 基本信息  
   
-- **用户名**: YoCocoium  
+- **用户名**: YoCoco  
 - **昵称**: 元可可  
 - **兴趣与热爱**: 热爱计算机图形学，正在学习人工智能的基础知识，期待在技术领域做出自己的成就。  
   
@@ -24,7 +24,7 @@
 
 ## Basic Information
 
-- **Username**: YoCocoium
+- **Username**: YoCoco
 - **Nickname**: 元可可
 - **Interests and Passions**: Enthusiastic about computer graphics, currently learning the fundamentals of artificial intelligence, looking forward to making my own achievements in the technology field.
 
